@@ -4,7 +4,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 export function Depoimento() {
     return (
         <div className="flex flex-col justify-center items-center mt-40">
-            <h1 className="text-5xl lg:text-5xl font-bold text-gray-900 mt-3 lg:mb-8">Testemunhos</h1>
+            <h1 className="text-5xl lg:text-5xl font-bold text-gray-900 mt-3 lg:mb-8">Depoimentos</h1>
             <p className="text-center mb-4 lg:mb-8 text-sm lg:text-base">
                 Mais social proof com testemunhos de clientes ou review do<br />
                 produtos/serviços prestados
