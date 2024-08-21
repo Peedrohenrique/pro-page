@@ -11,10 +11,8 @@ export function Pergunta() {
         <div className="flex flex-col justify-center items-center mt-40">
             <h1 className="text-3xl lg:text-5xl font-bold text-gray-900 mt-3 lg:mb-8">Perguntas Frequentes (FAQs)</h1>
 
-            <p className="text-center mb-4 lg:mb-8 text-sm lg:text-base max-w-4xl">FAQ's (Frequenly Asked Questions) bem escritas podem entregar valor. Se você conhece seu
-                público, sabe as perguntas frequentes - utilize aquelas que mais geram contato com o
-                suporte. Não invente perguntas.
-            </p>
+            <p className="text-center mb-4 lg:mb-8 text-sm lg:text-base max-w-4xl">FAQ&apos;s (Frequently Asked Questions) bem escritas podem entregar valor. Se você conhece seu público, sabe as perguntas frequentes - utilize aquelas que mais geram contato com o suporte. Não invente perguntas.</p>
+
 
             <div className="w-full mt-[80px]">
                 <Accordion type="single" collapsible className="w-full">

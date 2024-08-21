@@ -23,7 +23,7 @@ export function Testemunho() {
                         {/* Depoimento 1 */}
                         {index === 0 && (
                             <>
-                                <p className="text-sm lg:text-base font-bold">"O produto transformou minha rotina, tornando-a mais organizada e eficiente!"</p>
+                                <p className="text-sm lg:text-base font-bold">&quot;O produto transformou minha rotina, tornando-a mais organizada e eficiente!&quot;</p>
                                 <Avatar className="mt-7">
                                     <AvatarImage src="https://github.com/shadcn.png" />
                                     <AvatarFallback>JD</AvatarFallback>
@@ -36,7 +36,7 @@ export function Testemunho() {
                         {/* Depoimento 2 */}
                         {index === 1 && (
                             <>
-                                <p className="text-sm lg:text-base font-bold">"Melhor escolha que fiz para minha empresa! A produtividade disparou!"</p>
+                                <p className="text-sm lg:text-base font-bold">&quot;Melhor escolha que fiz para minha empresa! A produtividade disparou!&quot;</p>
                                 <Avatar className="mt-7">
                                     <AvatarImage src="https://github.com/shadcn.png" />
                                     <AvatarFallback>AG</AvatarFallback>
@@ -49,7 +49,7 @@ export function Testemunho() {
                         {/* Depoimento 3 */}
                         {index === 2 && (
                             <>
-                                <p className="text-sm lg:text-base font-bold">"A experiência visual é impecável, se adapta a todos os dispositivos!"</p>
+                                <p className="text-sm lg:text-base font-bold">&quot;A experiência visual é impecável, se adapta a todos os dispositivos!&quot;</p>
                                 <Avatar className="mt-7">
                                     <AvatarImage src="https://github.com/shadcn.png" />
                                     <AvatarFallback>RF</AvatarFallback>
